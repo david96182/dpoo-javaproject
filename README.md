@@ -11,4 +11,4 @@ general e histórico del consultorio.
 
 ## Diagrama de clases ##
 
-![picture alt](https://imgur.com/gallery/qcDt04P)
+<https://imgur.com/gallery/qcDt04P/>
