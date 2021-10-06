@@ -1,4 +1,4 @@
-#Sistema de Gestión de un consultorio médico#
+# Sistema de Gestión de un consultorio médico #
 
 ## Descripción ##
 
@@ -11,4 +11,4 @@ general e histórico del consultorio.
 
 ## Diagrama de clases ##
 
-![picture alt](https://imgur.com/XhcrENe )
+![picture alt](https://imgur.com/a/qcDt04P )
